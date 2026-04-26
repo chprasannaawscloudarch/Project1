@@ -1,0 +1,10 @@
+Install and Configure the Jenkins-Master and Jenkins-Agent
+Install Maven to Jenkins and Add GitHub Credentials to Jenkins
+Create Pipeline Script(JenkinsFile) for Build and Test artifacts and Create CI Job on Jenkins
+Install and Configure the SonarQube
+Integrate SonarQube with Jenkins
+Build and Push Docker Image using Pipeline Script
+SetUp Bootstrap Server for eksctl and Setup Kubernetes using eksctl
+ArgoCD Installation on EKS Cluster and Add EKS Cluster to ArgoCD
+Configure ArgoCD to Deploy Pods on EKS and Automate Job using GitOps GitHub repository
+Finally Done To Verify CI/CD pipeline by doing Test Commit on Github Repo
